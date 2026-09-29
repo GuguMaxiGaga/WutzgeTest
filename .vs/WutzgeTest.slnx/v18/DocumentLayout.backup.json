@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Maximilian.Heym\\Documents\\VS Projects\\WutzgeTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7995F963-AE92-41EE-80D5-59A5EA9E08EC}|WutzgeTest\\WutzgeTest.csproj|c:\\users\\maximilian.heym\\documents\\vs projects\\wutzgetest\\wutzgetest\\wutzge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7995F963-AE92-41EE-80D5-59A5EA9E08EC}|WutzgeTest\\WutzgeTest.csproj|solutionrelative:wutzgetest\\wutzge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6AE342F-CBC2-AEF2-CC42-5CCC9BBB6634}|WutzgeTest\\WutzgeTest.csproj|c:\\users\\maximilian.heym\\documents\\vs projects\\wutzgetest\\wutzgetest\\wutzge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AE342F-CBC2-AEF2-CC42-5CCC9BBB6634}|WutzgeTest\\WutzgeTest.csproj|solutionrelative:wutzgetest\\wutzge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7995F963-AE92-41EE-80D5-59A5EA9E08EC}|WutzgeTest\\WutzgeTest.csproj|c:\\users\\maximilian.heym\\documents\\vs projects\\wutzgetest\\wutzgetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7995F963-AE92-41EE-80D5-59A5EA9E08EC}|WutzgeTest\\WutzgeTest.csproj|solutionrelative:wutzgetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6AE342F-CBC2-AEF2-CC42-5CCC9BBB6634}|WutzgeTest\\WutzgeTest.csproj|c:\\users\\maximilian.heym\\documents\\vs projects\\wutzgetest\\wutzgetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AE342F-CBC2-AEF2-CC42-5CCC9BBB6634}|WutzgeTest\\WutzgeTest.csproj|solutionrelative:wutzgetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "WutzgeTest\\Wutzge.cs",
               "ToolTip": "C:\\Users\\Maximilian.Heym\\Documents\\VS Projects\\WutzgeTest\\WutzgeTest\\Wutzge.cs",
               "RelativeToolTip": "WutzgeTest\\Wutzge.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowB4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-29T08:46:55.031Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "WutzgeTest\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T08:46:39.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-29T08:46:39.101Z"
             }
           ]
         }

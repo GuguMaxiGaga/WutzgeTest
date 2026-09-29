@@ -13,3 +13,4 @@ C:\Users\Maximilian.Heym\Documents\VS Projects\WutzgeTest\WutzgeTest\obj\Debug\n
 C:\Users\Maximilian.Heym\Documents\VS Projects\WutzgeTest\WutzgeTest\obj\Debug\net10.0\WutzgeTest.genruntimeconfig.cache
 C:\Users\Maximilian.Heym\Documents\VS Projects\WutzgeTest\WutzgeTest\obj\Debug\net10.0\ref\WutzgeTest.dll
 C:\Users\Maximilian.Heym\Documents\VS Projects\WutzgeTest\WutzgeTest\obj\Debug\net10.0\WutzgeTest.csproj.Up2Date
+C:\Users\Maximilian.Heym\Documents\VS Projects\WutzgeTest\WutzgeTest\obj\Debug\net10.0\WutzgeTest.sourcelink.json

@@ -20,11 +20,15 @@ namespace WutzgeTest
         {
             if (geilesHessisch)
             {
+                Console.ForegroundColor =  ConsoleColor.Green;
                 Console.WriteLine("Hiiieer, des mussä sein!");
+                Console.ResetColor();
             }
             else
             {
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Des verwechselste!");
+                Console.ResetColor();
             }
         }
     }

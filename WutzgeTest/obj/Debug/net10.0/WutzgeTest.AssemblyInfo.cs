@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WutzgeTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bbc6339e9754a941f1836d427263d99431032f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("WutzgeTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WutzgeTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
