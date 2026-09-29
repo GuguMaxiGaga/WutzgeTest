@@ -1,0 +1,15 @@
+C:\Users\Maximilian.Heym\Documents\VS Projects\WutzgeTest\WutzgeTest\bin\Debug\net10.0\WutzgeTest.exe
+C:\Users\Maximilian.Heym\Documents\VS Projects\WutzgeTest\WutzgeTest\bin\Debug\net10.0\WutzgeTest.deps.json
+C:\Users\Maximilian.Heym\Documents\VS Projects\WutzgeTest\WutzgeTest\bin\Debug\net10.0\WutzgeTest.runtimeconfig.json
+C:\Users\Maximilian.Heym\Documents\VS Projects\WutzgeTest\WutzgeTest\bin\Debug\net10.0\WutzgeTest.dll
+C:\Users\Maximilian.Heym\Documents\VS Projects\WutzgeTest\WutzgeTest\bin\Debug\net10.0\WutzgeTest.pdb
+C:\Users\Maximilian.Heym\Documents\VS Projects\WutzgeTest\WutzgeTest\obj\Debug\net10.0\WutzgeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maximilian.Heym\Documents\VS Projects\WutzgeTest\WutzgeTest\obj\Debug\net10.0\WutzgeTest.AssemblyInfoInputs.cache
+C:\Users\Maximilian.Heym\Documents\VS Projects\WutzgeTest\WutzgeTest\obj\Debug\net10.0\WutzgeTest.AssemblyInfo.cs
+C:\Users\Maximilian.Heym\Documents\VS Projects\WutzgeTest\WutzgeTest\obj\Debug\net10.0\WutzgeTest.csproj.CoreCompileInputs.cache
+C:\Users\Maximilian.Heym\Documents\VS Projects\WutzgeTest\WutzgeTest\obj\Debug\net10.0\WutzgeTest.dll
+C:\Users\Maximilian.Heym\Documents\VS Projects\WutzgeTest\WutzgeTest\obj\Debug\net10.0\refint\WutzgeTest.dll
+C:\Users\Maximilian.Heym\Documents\VS Projects\WutzgeTest\WutzgeTest\obj\Debug\net10.0\WutzgeTest.pdb
+C:\Users\Maximilian.Heym\Documents\VS Projects\WutzgeTest\WutzgeTest\obj\Debug\net10.0\WutzgeTest.genruntimeconfig.cache
+C:\Users\Maximilian.Heym\Documents\VS Projects\WutzgeTest\WutzgeTest\obj\Debug\net10.0\ref\WutzgeTest.dll
+C:\Users\Maximilian.Heym\Documents\VS Projects\WutzgeTest\WutzgeTest\obj\Debug\net10.0\WutzgeTest.csproj.Up2Date
